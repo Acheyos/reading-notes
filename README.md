@@ -14,3 +14,13 @@ Hope to understand more practical uses of these tools in upcoming lessons.
 - This assignment gave a clear flowchart to follow for troubleshooting IT issues (or any issues)
 - A recommendation to document each solved problem into a database was recommended. *Ask for recommended programs*
 *Ensure retention of Change Control Window (agreed time to fix IT issue in coordination with the requestor/client )
+
+
+
+
+
+
+
+
+***Reading 08***
+-This covered the registry in windows. I admit to having no prior knowledge of it, but now understand it better as where settings for each program/application can be saved. All windows services use this registry, and other software may or may not use it (or use it partially for some files).
