@@ -24,3 +24,9 @@ Hope to understand more practical uses of these tools in upcoming lessons.
 
 ***Reading 08***
 -This covered the registry in windows. I admit to having no prior knowledge of it, but now understand it better as where settings for each program/application can be saved. All windows services use this registry, and other software may or may not use it (or use it partially for some files).
+
+
+
+
+***Reading 12*** 
+-PFSense is the tool this reading and the upcoming lab will focus on. It is software designed to establish and maintain router functions. Old computers can be given a new use in this manner.
