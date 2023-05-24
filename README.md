@@ -33,7 +33,7 @@ The article concretely listed the benefits of learning Powershell as well, and m
 -This covered the registry in windows. I admit to having no prior knowledge of it, but now understand it better as where settings for each program/application can be saved. All windows services use this registry, and other software may or may not use it (or use it partially for some files).
 
 ***Reading 09***
-
+This reading covered SOP's. While I have never created an SOP, I am familiar with the structuring and utilization of them.
 ***Reading 10***
 
 ***Reading 11***
