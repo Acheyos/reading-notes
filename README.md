@@ -35,7 +35,7 @@ The article concretely listed the benefits of learning Powershell as well, and m
 ***Reading 09***
 This reading covered SOP's. While I have never created an SOP, I am familiar with the structuring and utilization of them.
 ***Reading 10***
-
+This is an Intro to the VEEM software, a tool that we can use for migrating , updating, and more for VM's.
 ***Reading 11***
 
 
