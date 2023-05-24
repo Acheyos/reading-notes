@@ -27,7 +27,8 @@ Learning about SMB protocol led me to learning and understanding more about open
 ***Reading 06***
 This was about windows defender and how to use the various tools/settings within it. It is straightforward and user friendly. Microsoft offers this service for other OS's as well under the name Microsoft Defender.
 ***Reading 07***
-
+Powershell is clearly defined in this reading and a great comparison is made to bash. Bash is creating, powershell is doing.
+The article concretely listed the benefits of learning Powershell as well, and made it clear that not learning it comes at the cost of not remaining competitive in the career field.
 ***Reading 08***
 -This covered the registry in windows. I admit to having no prior knowledge of it, but now understand it better as where settings for each program/application can be saved. All windows services use this registry, and other software may or may not use it (or use it partially for some files).
 
