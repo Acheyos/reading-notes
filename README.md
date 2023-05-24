@@ -37,7 +37,9 @@ This reading covered SOP's. While I have never created an SOP, I am familiar wit
 ***Reading 10***
 This is an Intro to the VEEM software, a tool that we can use for migrating , updating, and more for VM's.
 ***Reading 11***
-
+This is great insight on how to assess signs from a SSD for potential failure. I have not yet expirienced an SSD failure, but the ways to detect one are different than what I have seen in the past with HDD failures.
+The article also suggests looking for S.M.A.R.T options when buying a new SSD so that there is some form of built in monitoring.
+As always, frequent backups of important data are still key.
 
 ***Reading 12*** 
 -PFSense is the tool this reading and the upcoming lab will focus on. It is software designed to establish and maintain router functions. Old computers can be given a new use in this manner.
