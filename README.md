@@ -45,5 +45,5 @@ As always, frequent backups of important data are still key.
 -PFSense is the tool this reading and the upcoming lab will focus on. It is software designed to establish and maintain router functions. Old computers can be given a new use in this manner.
 
 ***Reading 13***
-
+This gives several nice visuals to help comprehend exactly what the AWS EC2 and other cloud computing entails. Essentially, cloud virtualization comes from a host's hardware (in this article it would be Amazon) running virtualization software and making these VM's available to customers via a web interface. 
 ***Reading 14***
