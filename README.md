@@ -25,7 +25,7 @@ Hope to understand more practical uses of these tools in upcoming lessons.
 Learning about SMB protocol led me to learning and understanding more about open ports and the misconceptions behind them, but also about UDP v TCP and how they differ.
 
 ***Reading 06***
-
+This was about windows defender and how to use the various tools/settings within it. It is straightforward and user friendly. Microsoft offers this service for other OS's as well under the name Microsoft Defender.
 ***Reading 07***
 
 ***Reading 08***
