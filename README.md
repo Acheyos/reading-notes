@@ -47,3 +47,4 @@ As always, frequent backups of important data are still key.
 ***Reading 13***
 This gives several nice visuals to help comprehend exactly what the AWS EC2 and other cloud computing entails. Essentially, cloud virtualization comes from a host's hardware (in this article it would be Amazon) running virtualization software and making these VM's available to customers via a web interface. 
 ***Reading 14***
+Malware and virus detection in windows usually occurs via windows defender or another program meant to detect these threats. However, when something is missed, this article points us to the correct method to remove it. This involves booting into safe mode to prevent unecessary programs from running, cleaning the disk (removing temp filies) and then running an on demand scan with a different program than those that missed the threat initially.
